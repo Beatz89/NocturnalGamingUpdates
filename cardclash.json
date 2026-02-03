@@ -1,0 +1,6 @@
+{
+  "version": "1.2.0",
+  "mandatory": true,
+  "patch_notes": "Fixed the gravity glitch and added a new hat.",
+  "download_url": "https://github.com/YourName/YourRepo/releases/latest"
+}
