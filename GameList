@@ -1,18 +1,12 @@
 {
-  "games": {
-    "com.nocturnal.cardclash": {
+  "games": [
+    {
+      "packageId": "com.nocturnal.cardclash",
       "displayName": "Card Clash",
-      "latestVersion": "1.2.0",
+      "latestVersion": "1.2.3",
       "minSupportedVersion": "1.2.0",
       "storeUrl": "https://store.link/cardclash",
       "message": "New ranked mode + balance changes"
-    },
-    "com.nocturnalgaming.letterclash": {
-      "displayName": "LetterClash",
-      "latestVersion": "0.9.5",
-      "minSupportedVersion": "0.9.0",
-      "storeUrl": "https://store.link/letterclash",
-      "message": "New language packs added"
     }
-  }
+  ]
 }
